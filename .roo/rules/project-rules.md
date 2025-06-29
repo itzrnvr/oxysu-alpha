@@ -1,0 +1,1 @@
+This project strictly uses pnpm.
