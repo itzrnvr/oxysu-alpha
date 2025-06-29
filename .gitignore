@@ -10,15 +10,21 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+.tanstack/
+src/routeTree.gen.ts
 *.local
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
-*.suo
+*.suotore
 *.ntvs*
 *.njsproj
-*.sln
+*.slnproj
 *.sw?
+*.sw?
+
+pnpm-lock.yaml
+.env-lock.yaml
+.env
