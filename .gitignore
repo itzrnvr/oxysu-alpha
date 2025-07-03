@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 .tanstack/
-src/routeTree.gen.ts
+routeTree.gen.ts
 *.local
 
 # Editor directories and files
